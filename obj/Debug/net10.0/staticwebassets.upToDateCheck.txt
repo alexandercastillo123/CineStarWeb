@@ -1,0 +1,184 @@
+wwwroot\css\estilos.css
+wwwroot\favicon.ico
+wwwroot\img\cine\1.1.jpg
+wwwroot\img\cine\1.2.jpg
+wwwroot\img\cine\1.3.jpg
+wwwroot\img\cine\2.1.jpg
+wwwroot\img\cine\2.2.jpg
+wwwroot\img\cine\2.3.jpg
+wwwroot\img\cine\3.1.jpg
+wwwroot\img\cine\3.2.jpg
+wwwroot\img\cine\3.3.jpg
+wwwroot\img\cine\4.1.jpg
+wwwroot\img\cine\4.2.jpg
+wwwroot\img\cine\4.3.jpg
+wwwroot\img\cine\5.1.jpg
+wwwroot\img\cine\5.2.jpg
+wwwroot\img\cine\5.3.jpg
+wwwroot\img\cine\6.1.jpg
+wwwroot\img\cine\6.2.jpg
+wwwroot\img\cine\7.1.jpg
+wwwroot\img\cine\7.2.jpg
+wwwroot\img\cine\8.1.jpg
+wwwroot\img\cine\8.2.jpg
+wwwroot\img\cine\9.1.jpg
+wwwroot\img\cine\9.2.jpg
+wwwroot\img\pelicula\1.jpg
+wwwroot\img\pelicula\10.jpg
+wwwroot\img\pelicula\11.jpg
+wwwroot\img\pelicula\12.jpg
+wwwroot\img\pelicula\13.jpg
+wwwroot\img\pelicula\14.jpg
+wwwroot\img\pelicula\15.jpg
+wwwroot\img\pelicula\16.jpg
+wwwroot\img\pelicula\17.jpg
+wwwroot\img\pelicula\18.jpg
+wwwroot\img\pelicula\19.jpg
+wwwroot\img\pelicula\2.jpg
+wwwroot\img\pelicula\20.jpg
+wwwroot\img\pelicula\3.jpg
+wwwroot\img\pelicula\4.jpg
+wwwroot\img\pelicula\5.jpg
+wwwroot\img\pelicula\6.jpg
+wwwroot\img\pelicula\7.jpg
+wwwroot\img\pelicula\8.jpg
+wwwroot\img\pelicula\9.jpg
+wwwroot\img\varios\arrows.png
+wwwroot\img\varios\bg-footer.jpg
+wwwroot\img\varios\bg-papaya.jpg
+wwwroot\img\varios\bg-slider.png
+wwwroot\img\varios\bg-top-footer.jpg
+wwwroot\img\varios\bg-web.jpg
+wwwroot\img\varios\btn-mas-info.jpg
+wwwroot\img\varios\btn-trailer.jpg
+wwwroot\img\varios\cinefilo-star.jpg
+wwwroot\img\varios\favicon.ico
+wwwroot\img\varios\ico-face.png
+wwwroot\img\varios\ico-info2.png
+wwwroot\img\varios\ico-twitter.png
+wwwroot\img\varios\logo-cinestar.png
+wwwroot\img\varios\starcard.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\css\estilos.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\favicon.ico
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\js\site.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery-validation\LICENSE.md
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.min.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\lib\jquery\LICENSE.txt
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\wwwroot\img\varios\favicon.ico

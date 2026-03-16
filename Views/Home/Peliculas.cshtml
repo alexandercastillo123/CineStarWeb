@@ -1,0 +1,32 @@
+﻿@model CineStarWeb.Models.CineViewModel
+@{
+    ViewData["Title"] = ViewBag.Titulo;
+}
+
+<div class="contenido-interno">
+    <br /><h1>@ViewBag.Titulo</h1><br />
+    
+    @foreach (var p in Model.PeliculasCartelera)
+    {
+        <div class="contenido-pelicula">
+            <img src="~/img/pelicula/@(p.Id).jpg" width="160" height="226" align="left" style="margin-right: 20px;" />
+            <div class="datos-pelicula">
+                <h2>@p.Titulo</h2>
+                <p>@p.Sinopsis</p>
+                <br />
+                <div class="boton-pelicula">
+                    <a asp-action="Pelicula" asp-route-id="@p.Id">
+                        <img src="~/img/varios/btn-mas-info.jpg" width="120" height="30" />
+                    </a>
+                </div>
+                <div class="boton-pelicula">
+                    <a href="@p.Link" target="_blank">
+                        <img src="~/img/varios/btn-trailer.jpg" width="120" height="30" />
+                    </a>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <br />
+    }
+</div>
