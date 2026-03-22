@@ -476,3 +476,4 @@ D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.p
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.genruntimeconfig.cache
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\ref\CineStarWeb.dll
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\compressed\1da4ncoswl-{0}-dptwh1qazh-dptwh1qazh.gz
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.sourcelink.json

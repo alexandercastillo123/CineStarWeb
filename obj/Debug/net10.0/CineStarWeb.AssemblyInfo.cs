@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineStarWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce32db76d678312a9938409a66f7bc360cfc23aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineStarWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineStarWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
