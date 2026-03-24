@@ -1,23 +1,25 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <title>@ViewData["Title"] - Multicines Cinestar</title>
+    <meta name="description" content="Multicines Cinestar es una empresa pionera en el formato de multicines en el Perú. Información de películas, estrenos, concursos y más">
     <link rel="shortcut icon" href="~/img/varios/favicon.ico" />
     <link href="~/css/estilos.css" rel="stylesheet" type="text/css" />
+    <title>Multicines Cinestar</title>
 </head>
 <body>
     <header>
         <nav class="nav-sec">
-            <a href="/">Inicio</a>&nbsp;&nbsp;l&nbsp;&nbsp;
+            @Html.ActionLink("Inicio", "Index", "Home")&nbsp;&nbsp;l&nbsp;&nbsp;
             <a href="http://www.cinestar.com.pe/quienes_somos">Quiénes somos</a>&nbsp;&nbsp;l&nbsp;&nbsp;
             <a href="http://www.cinestar.com.pe/trabaja_con_nosotros">Trabaja con nosotros</a>&nbsp;&nbsp;l&nbsp;&nbsp;
             <a href="https://www.efact.pe/consult.html" target="_blank">Consulta tu comprobante de pago</a>&nbsp;&nbsp;l&nbsp;&nbsp;
             <a href="http://www.cinestar.com.pe/contactenos/#contenido_titulo">Contáctanos</a>
         </nav>
         <div class="area-logo">
-            <a href="/"><img src="~/img/varios/logo-cinestar.png" /></a>
+            <a href='@Url.Action("Index", "Home")'><img src="~/img/varios/logo-cinestar.png" /></a>
         </div>
         <nav class="menu">
             <span class="img-social">
@@ -26,10 +28,10 @@
             </span>
             <span class="social">Síguenos en: </span>
             <ul class="menu-principal">
-                <li class="menu-item"><a href="/Home/Peliculas?id=1">Cartelera</a></li>
-                <li class="menu-item"><a href="/Home/Peliculas?id=2">Próximos estrenos</a></li>
+                <li class="menu-item">@Html.ActionLink("Cartelera", "verPeliculas", "Home", new { id = 1 }, null)</li>
+                <li class="menu-item">@Html.ActionLink("Próximos estrenos", "verPeliculas", "Home", new { id = 2 }, null)</li>
                 <li class="menu-item"><a href="http://www.cinestar.com.pe/starcard">Star Card</a></li>
-                <li class="menu-item"><a href="/Home/Cines">Nuestros Cines</a></li>
+                <li class="menu-item">@Html.ActionLink("Nuestros cines", "verCines", "Home")</li>
                 <li class="menu-item"><a href="http://www.cinestar.com.pe/ventas_corporativas">Ventas Corporativas</a></li>
                 <li class="menu-item"><a href="http://www.cinestar.com.pe/promociones">Promociones</a></li>
                 <li class="menu-item"><a href="http://www.cinestar.com.pe/cinefilo_star">Blog</a></li>

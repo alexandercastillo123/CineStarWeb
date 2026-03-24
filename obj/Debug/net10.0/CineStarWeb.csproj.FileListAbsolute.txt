@@ -468,7 +468,6 @@ D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\staticwebasse
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\staticwebassets.development.json
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\swae.build.ex.cache
-D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStar.831497CF.Up2Date
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.dll
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\refint\CineStarWeb.dll
@@ -477,3 +476,4 @@ D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.g
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\ref\CineStarWeb.dll
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\compressed\1da4ncoswl-{0}-dptwh1qazh-dptwh1qazh.gz
 D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\CineStarWeb.sourcelink.json
+D:\tarea onpe y cinestar\CineStarWeb\CineStarWeb\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

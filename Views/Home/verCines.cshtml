@@ -1,0 +1,25 @@
+@model List<CineStarWeb.Models.Cine>
+@{
+    ViewBag.Title = "verCines";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="contenido-interno">
+<h1>Nuestros Cines</h1>
+
+@foreach(var cine in Model)
+{
+    <div class="contenido-cine">
+         <img src="~/img/cine/@(cine.Id).1.jpg" width="227" height="170" />
+                
+         <div class="datos-cine">
+             <h4>@cine.RazonSocial</h4>
+             <br>
+             <span>@cine.Direccion<br><br>Teléfono: @cine.Telefonos</span>
+         </div>
+
+        <a href='@Url.Action("verCine", "Home", new { id = cine.Id })'>
+             <img src="~/img/varios/ico-info2.png" width="150" height="40" />
+        </a>
+    </div>
+}

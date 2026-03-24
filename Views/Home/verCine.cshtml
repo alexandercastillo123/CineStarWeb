@@ -1,24 +1,27 @@
-﻿@model CineStarWeb.Models.CineViewModel
+@model CineStarWeb.Models.Cine
 @{
-    ViewData["Title"] = Model.CineDetalle?.RazonSocial ?? "Detalle de Cine";
+    ViewData["Title"] = Model?.RazonSocial ?? "Detalle de Cine";
 }
 
 <div class="contenido-interno" id="contenido-interno">
-    <h2>@Model.CineDetalle?.RazonSocial</h2>
+    <h2>@Model?.RazonSocial</h2>
     
     <div class="cine-info">
         <div class="cine-info datos">
-            <p>@Model.CineDetalle?.Direccion</p>
-            <p>Teléfono: @Model.CineDetalle?.Telefonos</p>
+            <p>@Model?.Direccion</p>
+            <p>Teléfono: @Model?.Telefonos</p>
             <br />
             
             <div class="tabla">
-                @foreach (var t in Model.Tarifas)
+                @if (Model?.Tarifas != null)
                 {
-                    <div class="fila">
-                        <div class="celda-titulo">@t.DiasSemana</div>
-                        <div class="celda">S/. @t.Precio.ToString("0.00")</div>
-                    </div>
+                    @foreach (var t in Model.Tarifas)
+                    {
+                        <div class="fila">
+                            <div class="celda-titulo">@t.DiasSemana</div>
+                            <div class="celda">@t.Precio</div>
+                        </div>
+                    }
                 }
             </div>
             
@@ -27,7 +30,7 @@
             </div>
         </div>
 
-        <img src="~/img/cine/@(Model.CineDetalle?.Id).2.jpg" />
+        <img src="~/img/cine/@(Model?.Id).2.jpg" />
         <br /><br />
         <h4>Los horarios de cada función están sujetos a cambios sin previo aviso.</h4>
         <br />
@@ -38,19 +41,22 @@
                     <div class="celda-cabecera">Películas</div>
                     <div class="celda-cabecera">Horarios</div>
                 </div>
-                @foreach (var h in Model.Horarios)
+                @if (Model?.Horarios != null)
                 {
-                    <div class="fila">
-                        <div class="celda-titulo">@h.TituloPelicula</div>
-                        <div class="celda">@h.Horarios</div>
-                    </div>
+                    @foreach (var h in Model.Horarios)
+                    {
+                        <div class="fila">
+                            <div class="celda-titulo">@h.TituloPelicula</div>
+                            <div class="celda">@h.Horarios</div>
+                        </div>
+                    }
                 }
             </div>
         </div>
     </div>
 
     <div>
-        <img style="float:left;" src="~/img/cine/@(Model.CineDetalle?.Id).3.jpg" alt="Imagen del cine" />
+        <img style="float:left;" src="~/img/cine/@(Model?.Id).3.jpg" alt="Imagen del cine" />
         <span class="tx_gris">
             Precios de los juegos: desde S/1.00 en todos los Cine Star.<br />
             Horario de atención de juegos es de 12:00 m hasta las 10:30 pm.

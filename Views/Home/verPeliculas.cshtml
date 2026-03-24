@@ -1,12 +1,12 @@
-﻿@model CineStarWeb.Models.CineViewModel
+@model List<CineStarWeb.Models.Pelicula>
 @{
-    ViewData["Title"] = ViewBag.Titulo;
+    ViewData["Title"] = ViewBag.Titulo ?? "Cartelera / Próximos";
 }
 
 <div class="contenido-interno">
-    <br /><h1>@ViewBag.Titulo</h1><br />
+    <br /><h1>@(ViewBag.Titulo ?? "Películas")</h1><br />
     
-    @foreach (var p in Model.PeliculasCartelera)
+    @foreach (var p in Model)
     {
         <div class="contenido-pelicula">
             <img src="~/img/pelicula/@(p.Id).jpg" width="160" height="226" align="left" style="margin-right: 20px;" />
@@ -15,7 +15,7 @@
                 <p>@p.Sinopsis</p>
                 <br />
                 <div class="boton-pelicula">
-                    <a asp-action="Pelicula" asp-route-id="@p.Id">
+                    <a asp-action="verPelicula" asp-route-id="@p.Id">
                         <img src="~/img/varios/btn-mas-info.jpg" width="120" height="30" />
                     </a>
                 </div>
